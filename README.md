@@ -4,9 +4,9 @@ This was a group project.
 
 
 Team members:
-Jannatul Naeema
-Deyvis Dalman 
-Devanshi Patel
-Utsav Agarwal 
+Jannatul Naeema,
+Deyvis Dalman, 
+Devanshi Patel,
+Utsav Agarwal.
 
 
