@@ -39,32 +39,22 @@ As a result, when applied to the same dataset for each city, the Bert model dete
 ![Screenshot_8-7-2024_15646_](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/67d27290-b22c-4ef5-adf7-be6751d212ce)
 
 
-
-
 ### Comparison of Sentiment with Vader vs Bert for London
 
 
-![london-vader](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/93bb6ae5-3ea8-4d47-a3c6-4a2a4d2b7af1)
-![london-bert](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/5c0eec7f-a634-450e-b0fd-adae53fbf85b) 
-
-
+<img width="550" alt="London" src="https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/7f19e089-3fa5-4818-808c-c49ec466cd11">
 
 
 ### Comparison of Sentiment with Vader vs Bert for Delhi
 
-
-![delhi-bert](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/09feab73-2b55-4e0f-a8bc-7716c974632b)
-![delhi-vader](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/a4b00800-a815-40b8-a47d-64fa5e24a0ef) 
+<img width="536" alt="Delhi" src="https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/93b213fa-8c44-4359-aede-9c07735e7be7">
 
 
 
 
 ### Comparison of Sentiment with Vader vs Bert for Shanghai
 
-
-
-![shanghai-vader](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/09843882-873c-48d3-a658-45076c1ba0a7)
-![shanghai-bert](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/fc8b12fb-0eba-4a28-8532-606a8703388e)
+<img width="548" alt="Shanghai" src="https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/59d022e8-9c9c-43a4-a4a7-363671b08416">
 
 
 #### Collaborator:
