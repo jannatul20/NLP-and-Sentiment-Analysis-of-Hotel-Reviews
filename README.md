@@ -31,9 +31,12 @@ sentiments. Finally, a try-except loop was implemented within a ‘for loop’ t
 reviews
 
 ### Insights from Vader and Bert Model:
-Bert model outperforms the Vader model in capturing sentiment. The Vader model tends to label a significant portion of sentiments as neutral, while the Bert model is more effective in distinguishing between different types of sentiments. As a result, when applied to the same dataset for each city, the Bert model detects more positive or negative sentiment compared to the Vader model. This suggests that the Bert model is a more reliable tool for sentiment analysis in this context.
+Bert model outperforms the Vader model in capturing sentiment. The Vader model tends to label a significant portion of sentiments as neutral, while the Bert model is more effective in distinguishing between different types of sentiments. 
+![Screenshot_8-7-2024_144835_](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/0e37c10e-127b-445c-990f-3fa24ae67960)
 
+As a result, when applied to the same dataset for each city, the Bert model detects more positive or negative sentiment compared to the Vader model. This suggests that the Bert model is a more reliable tool for sentiment analysis in this context. 
 ![Screenshot_8-7-2024_15646_](https://github.com/jannatul20/NLP-and-Sentiment-Analysis-of-Hotel-Reviews/assets/113473117/67d27290-b22c-4ef5-adf7-be6751d212ce)
+
 
 #### Collaborator:
 - Jannatul Naeema
